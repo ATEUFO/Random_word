@@ -49,5 +49,6 @@ you can do it easily by adding it in the words lists.
 
 > Do you want to change the number of attempts?
 
-really easy change the attempts
-I will add more in this game
+really easy change the attempts 
+
+> I will add more in this game
